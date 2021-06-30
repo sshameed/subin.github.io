@@ -5,6 +5,6 @@
     <title>website of Subin Shahul Hameed</title>
   </head>
   <body>
-    <h1>website of Subin Shahul Hameed</h1>
+    <h1>Website of Subin Shahul Hameed</h1>
   </body>
 </html>
